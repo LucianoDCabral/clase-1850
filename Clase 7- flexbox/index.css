@@ -1,0 +1,36 @@
+.contenedor{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aqua;
+    flex-direction: column-reverse;
+}
+
+.cuadrado{
+    height: 300px;
+    width: 200px;
+    
+}
+
+.c1{
+    background-color: black;
+}
+
+.c2{
+    background-color: yellow;
+}
+
+.c3{
+    background-color: red;
+}
+.c4{
+    background-color: pink;
+}
+.c5{
+    background-color: blue;
+}
+.c6{
+    background-color: purple;
+}

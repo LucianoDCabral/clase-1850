@@ -1,0 +1,88 @@
+
+@font-face{
+    font-family: "L";
+    src: url(./fuentes/ShadowsIntoLight-Regular.ttf);
+
+}
+
+h5{
+    font-family:"L";
+}
+h3{
+    font-family: 'Marck Script', cursive;
+}
+
+p{
+    font-family: 'Marck Script', cursive;
+    font-weight: 600;
+}
+
+.rombo-2 {
+    width: 100px; 
+    height: 100px; 
+    border: 3px solid #555; 
+    background: #428bca;
+    -webkit-transform: rotate(45deg) skew(15deg, 15deg);
+    -moz-transform: rotate(45deg) skew(15deg, 15deg);
+    -ms-transform: rotate(45deg) skew(15deg, 15deg);
+    -o-transform: rotate(45deg) skew(15deg, 15deg);
+    transform: rotate(45deg) skew(15deg, 15deg);
+}
+
+
+
+
+h3{
+    color: red;
+}
+
+
+h3{
+    background-color:black;
+}
+
+
+.Titulo{
+    color: blue;
+}
+
+.Titulo{
+    color: orange;
+}
+
+.Titulo{
+    color: blue;
+}
+
+#Elmejor{
+    color: springgreen;
+    background-color: blanchedalmond;
+    font-size: 60px;
+
+}
+
+.Messi{
+    background-image:url("./imagenes/messi.jpg")
+  
+
+
+    
+
+}
+.parrafo1{
+    color: yellowgreen;
+}
+.parrafo2{
+    color: #4A3DB4;
+}
+
+.parrafo3{
+    color:rgb(134,124, 88)
+}
+
+.parrafo4{
+    color:rgba( 10, 30, 100,7)
+}
+
+
+

@@ -1,0 +1,49 @@
+    .cuadrado{
+        height: 90px;
+        width: 90px;
+        display: inline-block;
+    }
+
+    .c1{
+        background-color: red;
+        position: relative;
+        top: 200px;
+        left: 200px;
+    }
+
+    .c2{
+        background-color: blue;
+        width: 100%;
+        height: 100%;
+     
+
+    }
+
+    .c3{
+        background-color: violet;
+        position: fixed;
+        top: 10px;
+        left: 1100px;
+    }
+
+    .c4{
+        background-color: green;
+        position: fixed;
+        top: 0px;
+        left: 0px;
+    }
+
+    .c5{
+        background-color: black;
+    }
+
+    .c6{
+        background-color: yellow;
+        width: 80%;
+        height: 90%;
+    }
+
+
+
+
+    
